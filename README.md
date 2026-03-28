@@ -1,2 +1,2 @@
 # agentic_design_patterns
-1. [Prompt chaining](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md)
+1. [Prompt chaining](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md)  : Prompt chaining follows a divide-and-conquer approach, where a complex problem is broken down into smaller, sequential steps. Instead of asking a single large question to the LLM, the task is split into multiple focused prompts, each executed step-by-step to improve accuracy and control.
