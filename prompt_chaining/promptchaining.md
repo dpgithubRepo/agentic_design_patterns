@@ -1,5 +1,5 @@
 
-# 🚀 AI Resume–Job Matcher using Prompt Chaining
+# 🚀[ AI Resume–Job Matcher using Prompt Chaining ](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/JobMatcher_promptchaining.py)
 
 ## 📌 Overview
 
@@ -10,6 +10,7 @@ The system uses **prompt chaining**, where multiple LLM steps are executed seque
 
 [**LangChain**](https://www.langchain.com/) simplifies the development of LLM-based applications by providing components such as prompt templates, chains, memory, and integrations with external data sources, making it easier to build scalable and modular AI systems.
 
+[Src Code :: Click here](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/JobMatcher_promptchaining.py)
 ---
 
 ## 🧠 How It Works
