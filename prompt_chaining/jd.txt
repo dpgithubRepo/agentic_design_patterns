@@ -1,0 +1,19 @@
+We are looking for a Backend Software Engineer with strong experience in building scalable systems.
+
+Requirements:
+
+Technical Skills:
+- Proficiency in Python and Java
+- Experience with REST APIs and microservices architecture
+- Strong knowledge of databases such as PostgreSQL and MongoDB
+- Experience with cloud platforms like AWS
+- Familiarity with Docker and Kubernetes
+
+Soft Skills:
+- Strong problem-solving abilities
+- Good communication skills
+- Ability to work in agile teams
+
+Other Requirements:
+- 3+ years of experience in backend development
+- Experience with CI/CD pipelines is a plus

@@ -1,0 +1,24 @@
+John Doe
+Software Engineer
+
+Summary:
+Experienced software developer with 3 years of experience in backend development and cloud-based applications.
+
+Technical Skills:
+- Python, Java
+- REST API development
+- MySQL, MongoDB
+- AWS (EC2, S3)
+- Basic knowledge of Docker
+
+Soft Skills:
+- Good communication
+- Team collaboration
+- Problem solving
+
+Experience:
+Worked on developing scalable backend services and integrating APIs for financial applications.
+
+Projects:
+- Built a REST API service using Python and Flask
+- Developed cloud deployment pipelines using AWS
