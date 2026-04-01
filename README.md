@@ -1,2 +1,5 @@
-# agentic_design_patterns
-1. [Prompt chaining](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md)
+# Agentic Design Patterns
+1. **[Prompt chaining](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md)  :** Prompt chaining follows a divide-and-conquer approach, where a complex problem is broken down into smaller, sequential steps. Instead of asking a single large question to the LLM, the task is split into multiple focused prompts, each executed step-by-step to improve accuracy and control. The output of the previous step becomes input to next step in a sequential manner forming a chain of prompts and hence the name prompt chaining. [Job Matcher](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md) python based code uses langchain and openAI to show how langchain can be used to create prompt chaining where the resume is validated against the job descripton and **gives the matching score, list downs the missing skills and also comes up with high level learning plan with timeline.**
+     
+   📌 **When to Use This Pattern**  
+  Apply this pattern when a problem cannot be effectively solved with a single prompt. It is most useful for workflows that involve multiple stages, require intermediate processing, or depend on interactions with external tools. This approach is especially valuable when building agentic systems that rely on multi-step reasoning and state management.
