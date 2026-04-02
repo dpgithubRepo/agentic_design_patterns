@@ -42,3 +42,6 @@ Planning is an agentic design pattern where a complex problem is first decompose
 
      📌 **When to Use This Pattern**
         Apply this pattern when a problem can benefit from multiple specialized agents working together, especially in workflows that involve distinct responsibilities such as data collection, processing, analysis, and presentation. It is particularly useful for building complex AI systems like research assistants, content generation pipelines, dashboards, and enterprise automation tools. This pattern is ideal when scalability, modularity, and real-time visibility into task execution are important, and when a single-agent approach is insufficient to handle the complexity of the task effectively.   
+
+
+# WIP
