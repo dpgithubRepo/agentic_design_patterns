@@ -1,4 +1,9 @@
 # Agentic Design Patterns
+
+**Why Use Agentic Design Patterns?**
+Most LLM-based applications start simple — a prompt goes in, an answer comes out. This works for basic use cases. However, real-world applications quickly expose the limitations of this approach.
+Agentic design patterns provide a structured way to build reliable, scalable, and intelligent AI systems instead of relying on a single prompt & following covers some design patterns and the use cases where it should be used
+
 1. **[Prompt chaining](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md)  :** Prompt chaining follows a divide-and-conquer approach, where a complex problem is broken down into smaller, sequential steps. Instead of asking a single large question to the LLM, the task is split into multiple focused prompts, each executed step-by-step to improve accuracy and control. The output of the previous step becomes input to next step in a sequential manner forming a chain of prompts and hence the name prompt chaining. [Job Matcher](https://github.com/dpgithubRepo/agentic_design_patterns/blob/main/prompt_chaining/promptchaining.md) python based code uses langchain and openAI to show how langchain can be used to create prompt chaining where the resume is validated against the job descripton and **gives the matching score, list downs the missing skills and also comes up with high level learning plan with timeline.**
      
    📌 **When to Use This Pattern**  
